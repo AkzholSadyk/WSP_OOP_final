@@ -1,0 +1,6 @@
+Login: student
+Name: Igor
+Surname: Pak
+School: SITE
+Course: 2
+StudentID: 31404

@@ -1,0 +1,6 @@
+Login: amina
+Name: Amina
+Surname: Gihbwigb
+School: BS
+Course: 2
+StudentID: 23000000
